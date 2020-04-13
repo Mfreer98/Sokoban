@@ -1,4 +1,14 @@
-﻿  nodo.cpp
-  Source.cpp
+﻿  gestorArchivos.cpp
+c:\users\marlon freer\desktop\sokoko\sokoban\sokov2.0\sokov2.0\gestorarchivos.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\marlon freer\desktop\sokoko\sokoban\sokov2.0\sokov2.0\gestorarchivos.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\marlon freer\desktop\sokoko\sokoban\sokov2.0\sokov2.0\gestorarchivos.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\marlon freer\desktop\sokoko\sokoban\sokov2.0\sokov2.0\gestorarchivos.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\marlon freer\desktop\sokoko\sokoban\sokov2.0\sokov2.0\gestorarchivos.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\marlon freer\desktop\sokoko\sokoban\sokov2.0\sokov2.0\gestorarchivos.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\marlon freer\desktop\sokoko\sokoban\sokov2.0\sokov2.0\gestorarchivos.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\marlon freer\desktop\sokoko\sokoban\sokov2.0\sokov2.0\gestorarchivos.cpp(224): warning C4018: '<': signed/unsigned mismatch
+  lista.cpp
+  nodo.cpp
+  utiles.cpp
   Generating Code...
-  SokoV2.0.vcxproj -> C:\Users\Marlon Freer\Desktop\SokoV2.0\Debug\SokoV2.0.exe
+  SokoV2.0.vcxproj -> C:\Users\Marlon Freer\Desktop\Sokoko\Sokoban\SokoV2.0\Debug\SokoV2.0.exe
